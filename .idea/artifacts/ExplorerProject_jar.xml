@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExplorerProject:jar">
+    <output-path>$PROJECT_DIR$/runnable/v1</output-path>
+    <root id="archive" name="ExplorerProject.jar">
+      <element id="module-output" name="ExplorerProject" />
+    </root>
+  </artifact>
+</component>
